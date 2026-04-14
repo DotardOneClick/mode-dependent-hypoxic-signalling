@@ -7,7 +7,7 @@ and gene expression in the medial prefrontal cortex and hippocampus.
 
 ## Authors
 
-Denys Porkhalo (1), Denys Pashevin (1), Yana Naumenko (2), Roman Koval (3),
+Denys Porkhalo (1), Denys Pashevin (1), Alla G Portnychenko(1), Yana Naumenko (2), Roman Koval (3),
 Mariia Kozlovska (4), Mariia Kamkina (5), Yan Tytarenko (6), Victor Dosenko (1)
 
 1. Department of General and Molecular Pathophysiology, Bogomoletz Institute
