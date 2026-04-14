@@ -1,0 +1,20 @@
+# Data files
+data/
+
+# Results (generated automatically)
+results/
+
+# Test scripts
+test_*.py
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
