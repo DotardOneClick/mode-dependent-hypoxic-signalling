@@ -1,4 +1,4 @@
-# Mode-Dependent Hypoxic Signalling: HIF-1α/2α/3α, PACAP, and PAI Responses to Chemical, Intermittent, and Hyperbaric Hypoxia
+# Mode-Dependent Effects of Chemical, Intermittent, and Hyperbaric Hypoxia on HIF-1α, HIF-2α, HIF-3α, PACAP, and PAI mRNA Expression in the Single Prolonged Stress Model of PTSD
 
 Statistical analysis pipeline for a rat PTSD model study comparing three
 hypoxic interventions — cobalt chloride (CoCl₂), intermittent normobaric
@@ -7,17 +7,15 @@ and gene expression in the medial prefrontal cortex and hippocampus.
 
 ## Authors
 
-Denys Porkhalo (1), Denys Pashevin (1), Alla G Portnychenko(1), Yana Naumenko (2), Roman Koval (3),
-Mariia Kozlovska (4), Mariia Kamkina (5), Yan Tytarenko (6), Victor Dosenko (1)
+Denys Porkhalo1, Denys Pashevin1, Yana Naumenko2, Roman Koval3, Mariia Kozlovska4,5, Mariia Kamkina6, Yan Tytarenko7, Alla Portnychenko4,5, Victor Dosenko1 
+1. Department of General and Molecular Pathophysiology, Bogomoletz Institute of Physiology of NAS of Ukraine, Kyiv, Ukraine
+2. Department of Biophysics of Sensory Signalling, Bogomoletz Institute of Physiology of NAS of Ukraine, Kyiv
+3. Department of Cytology, Bogomoletz Institute of Physiology of NAS of Ukraine, Kyiv
+4. Department of Hypoxia, Bogomoletz Institute of Physiology of NAS of Ukraine, Kyiv
+5. International Centre for Astronomical and Medico-Ecological Research, NAS of Ukraine, Kyiv, Ukraine
+6. Kyiv Medical University, Kyiv, Ukraine
+7. Bogomolets National Medical University, Kyiv, Ukraine
 
-1. Department of General and Molecular Pathophysiology, Bogomoletz Institute
-   of Physiology of NAS of Ukraine, Kyiv, Ukraine
-2. Department of Biophysics of Sensory Signalling, Bogomoletz Institute
-   of Physiology of NAS of Ukraine, Kyiv, Ukraine
-3. Department of Cytology, Bogomoletz Institute of Physiology of NAS of Ukraine
-4. Department of Hypoxia, Bogomoletz Institute of Physiology of NAS of Ukraine
-5. Kyiv Medical University, Kyiv, Ukraine
-6. Bogomolets National Medical University, Kyiv, Ukraine
 
 ## Study Overview
 
